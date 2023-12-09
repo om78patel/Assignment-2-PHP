@@ -1,0 +1,63 @@
+/* Style.css */
+
+/* Body Styles */
+body {
+  background: linear-gradient(45deg, #7e44ad, #29495b); /* Gradient background with purple and blue */
+}
+
+/* Container Styles */
+.container {
+  margin-top: 50px;
+}
+
+/* Form Container Styles */
+.form-container {
+  max-width: 400px;
+  margin: auto;
+  margin-top: 50px;
+  background-color: slategray; /* Slategray */
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Heading Styles */
+h2 {
+  text-align: center;
+  color: #007bff; /* Blue */
+}
+
+/* Form Group Styles */
+.form-group {
+  margin-bottom: 20px;
+}
+
+/* Label Styles */
+label {
+  font-weight: bold;
+}
+
+/* Primary Button Styles */
+.btn-primary {
+  background-color: #28a745; /* Green */
+  border-color: #28a745;
+}
+
+/* Hover State for Primary Button */
+.btn-primary:hover {
+  background-color: #218838; /* Dark Green */
+  border-color: #218838;
+}
+
+/* Link Styles */
+a {
+  display: block;
+  margin-top: 10px;
+  text-align: center;
+  color: #dc3545; /* Red */
+}
+
+/* Hover State for Link */
+a:hover {
+  color: #c82333; /* Dark Red */
+}
